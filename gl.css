@@ -39,3 +39,12 @@ body{
     font-family: cursive;
     color: black;
 }
+.center{
+    position: absolute;
+    /* top: 50%; */
+    color: rebeccapurple;
+    text-decoration: double;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
